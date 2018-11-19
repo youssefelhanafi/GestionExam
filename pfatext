@@ -1,0 +1,19 @@
+Connexion.php : assurer la connexion avec la base de données ;
+
+Crypt.php : définir les cinq fonctions de cryptage ;
+
+Uploadf1.php : mettre le fichier Excel des étudiants inscrits dans une matière x dans le dossier « upload » ;
+
+Readf1.php : remplir la table étudiants et la table notes par les informations des étudiants à partir du fichier déposé dans le dossier « upload » ;
+
+Demo.php : télécharger le fichier Excel destiné à l’administration qui sert à faire la correspondance entre le numéro apogée le code anonyme et les autres informations des étudiants;
+
+Demo2.php : télécharger le fichier Excel destiné au professeur et qui sera exploité pour reporter les notes obtenues par les étudiants ;
+
+Uploadf2.php: mettre le fichier Excel, déposé par le professeur des notes des étudiants, dans le dossier « upload » ;
+
+Readf2.php: mettre a jour la table notes par insertion des notes contrôle continue et contrôle finale à partir du fichier Excel déposé dans le dossier « upload » ;
+
+Demo3.php: télécharger le fichier final des notes dans un format identique à celui du fichier d’input;
+
+Index.php: afficher la page de connexion;
